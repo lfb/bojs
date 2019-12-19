@@ -1,1 +1,10 @@
 theme: jekyll-theme-cayman
+
+# site setting
+title: 'bojs - A JavaScript library'
+description: 'A JavaScript library'
+keyword: 'bojs, javascript'
+
+## Author
+author: 'Fengbo Liang'
+nickname: 'Peter Liang'
